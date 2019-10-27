@@ -12,7 +12,7 @@ Thinking about....
 2. Datadog
 3. Buildbot
 
-Discovering ? :brain
+Discovering ?  :bulb:
 
 
 ```
