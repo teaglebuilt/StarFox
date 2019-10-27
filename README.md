@@ -1,4 +1,5 @@
-# StarFox
+
+![StarFox](https://github.com/teaglebuilt/starfox/raw/master/StarFox.jpg "StarFox")
 
 
 As of right now, I am exploring creating an http module while learning mypy -> typing.
