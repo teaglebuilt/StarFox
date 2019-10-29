@@ -1,25 +1,14 @@
 
 ![StarFox](https://github.com/teaglebuilt/starfox/raw/master/StarFox.jpg "StarFox")
 
+SeleniumGrid configured with Chrome and Firefox
 
-As of right now, I am exploring creating an http module while learning mypy -> typing.
-
-The goal is to discover custom features with request and responses to use in library discovery/development.
-
-Thinking about....
-
-1. Async Pytest / Robotframework
-2. Datadog
-3. Buildbot
-
-Discovering ?  :bulb:
-
-
+launch
 ```
-from api import request
+make grid-up
+```
 
-
-response = request('GET', 'https://jsonplaceholder.typicode.com/todos/1')
-assert response.status_code == 200
-print(response.body)
+shut down
+```
+make network-down
 ```
